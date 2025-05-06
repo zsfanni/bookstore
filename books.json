@@ -16,5 +16,17 @@
     "szerző": "Molnár Ferenc",
     "kiadás_éve": 1906,
     "ár": 3000
+  },
+  {
+    "cím": "Az arany ember",
+    "szerző": "Jókai Mór",
+    "kiadás_éve": 1872,
+    "ár": 4500
+  },
+  {
+    "cím": "Tüskevár",
+    "szerző": "Fekete István",
+    "kiadás_éve": 1957,
+    "ár": 3200
   }
 ]
