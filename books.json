@@ -3,60 +3,110 @@
     "cím": "A kőszívű ember fiai",
     "szerző": "Jókai Mór",
     "kiadás-éve": 1869,
+<<<<<<< HEAD
     "ár": 3700
+=======
+    "ár": 3700,
+    "raktárkészlet" : 5
+>>>>>>> feature/add-stock
   },
   {
     "cím": "Egri csillagok",
     "szerző": "Gárdonyi Géza",
     "kiadás-éve": 1901,
+<<<<<<< HEAD
     "ár": 4000
+=======
+    "ár": 4000,
+    "raktárkészlet" : 45
+>>>>>>> feature/add-stock
   },
   {
     "cím": "Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
+<<<<<<< HEAD
     "ár": 3000
+=======
+    "ár": 3000,
+    "raktárkészlet" : 35
+>>>>>>> feature/add-stock
   },
   {
     "cím": "Az arany ember",
     "szerző": "Jókai Mór",
     "kiadás-éve": 1872,
+<<<<<<< HEAD
     "ár": 4500
+=======
+    "ár": 4500,
+    "raktárkészlet" : 25
+>>>>>>> feature/add-stock
   },
   {
     "cím": "Tüskevár",
     "szerző": "Fekete István",
     "kiadás-éve": 1957,
+<<<<<<< HEAD
     "ár": 3200
+=======
+    "ár": 3200,
+    "raktárkészlet" : 15
+>>>>>>> feature/add-stock
   },
   {
     "cím": "Légy jó mindhalálig",
     "szerző": "Móricz Zsigmond",
     "kiadás-éve": 1920,
+<<<<<<< HEAD
     "ár": 2800
+=======
+    "ár": 2800,
+    "raktárkészlet" : 50
+>>>>>>> feature/add-stock
   },
   {
     "cím": "Abigél",
     "szerző": "Szabó Magda",
     "kiadás-éve": 1970,
+<<<<<<< HEAD
     "ár": 3700
+=======
+    "ár": 3700,
+    "raktárkészlet" : 40
+>>>>>>> feature/add-stock
   },
   {
     "cím": "A Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
+<<<<<<< HEAD
     "ár": 3000
+=======
+    "ár": 3000,
+    "raktárkészlet" : 10
+>>>>>>> feature/add-stock
   },
   {
     "cím": "Kincskereső kisködmön",
     "szerző": "Móra Ferenc",
     "kiadás-éve": 1918,
+<<<<<<< HEAD
     "ár": 2500
+=======
+    "ár": 2500,
+    "raktárkészlet" : 30
+>>>>>>> feature/add-stock
   },
   {
     "cím": "Iskola a határon",
     "szerző": "Ottlik Géza",
     "kiadás-éve": 1959,
+<<<<<<< HEAD
     "ár": 3600
+=======
+    "ár": 3600,
+    "raktárkészlet" : 20
+>>>>>>> feature/add-stock
   }
 ]
