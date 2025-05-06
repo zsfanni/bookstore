@@ -4,69 +4,79 @@
     "szerző": "Jókai Mór",
     "kiadás-éve": 1869,
     "ár": 3700,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "Egri csillagok",
     "szerző": "Gárdonyi Géza",
     "kiadás-éve": 1901,
     "ár": 4000,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
     "ár": 3000,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "Az arany ember",
     "szerző": "Jókai Mór",
     "kiadás-éve": 1872,
     "ár": 4500,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "Tüskevár",
     "szerző": "Fekete István",
     "kiadás-éve": 1957,
     "ár": 3200,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "Légy jó mindhalálig",
     "szerző": "Móricz Zsigmond",
     "kiadás-éve": 1920,
     "ár": 2800,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "Abigél",
     "szerző": "Szabó Magda",
     "kiadás-éve": 1970,
     "ár": 3700,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "A Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
     "ár": 3000,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "Kincskereső kisködmön",
     "szerző": "Móra Ferenc",
     "kiadás-éve": 1918,
     "ár": 2500,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   },
   {
     "cím": "Iskola a határon",
     "szerző": "Ottlik Géza",
     "kiadás-éve": 1959,
     "ár": 3600,
-    "kedvezmény": "25%"
+    "kedvezmény": "25%",
+    "raktárkészlet" : 10
   }
 ]
