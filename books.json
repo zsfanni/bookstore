@@ -1,0 +1,20 @@
+[  
+  {
+    "cím": "A kőszívű ember fiai",
+    "szerző": "Jókai Mór",
+    "kiadás_éve": 1869,
+    "ár": 3500
+  },
+  {
+    "cím": "Egri csillagok",
+    "szerző": "Gárdonyi Géza",
+    "kiadás_éve": 1901,
+    "ár": 4000
+  },
+  {
+    "cím": "Pál utcai fiúk",
+    "szerző": "Molnár Ferenc",
+    "kiadás_éve": 1906,
+    "ár": 3000
+  }
+]
