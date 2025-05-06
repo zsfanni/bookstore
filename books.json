@@ -5,7 +5,7 @@
     "kiadás-éve": 1869,
     "ár": 3700,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 5
   },
   {
     "cím": "Egri csillagok",
@@ -13,7 +13,7 @@
     "kiadás-éve": 1901,
     "ár": 4000,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 45
   },
   {
     "cím": "Pál utcai fiúk",
@@ -21,7 +21,7 @@
     "kiadás-éve": 1906,
     "ár": 3000,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 35
   },
   {
     "cím": "Az arany ember",
@@ -29,7 +29,7 @@
     "kiadás-éve": 1872,
     "ár": 4500,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 25
   },
   {
     "cím": "Tüskevár",
@@ -37,7 +37,7 @@
     "kiadás-éve": 1957,
     "ár": 3200,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 15
   },
   {
     "cím": "Légy jó mindhalálig",
@@ -45,7 +45,7 @@
     "kiadás-éve": 1920,
     "ár": 2800,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 50
   },
   {
     "cím": "Abigél",
@@ -53,7 +53,7 @@
     "kiadás-éve": 1970,
     "ár": 3700,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 40
   },
   {
     "cím": "A Pál utcai fiúk",
@@ -69,7 +69,7 @@
     "kiadás-éve": 1918,
     "ár": 2500,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 30
   },
   {
     "cím": "Iskola a határon",
@@ -77,6 +77,6 @@
     "kiadás-éve": 1959,
     "ár": 3600,
     "kedvezmény": "25%",
-    "raktárkészlet" : 10
+    "raktárkészlet" : 20
   }
 ]
