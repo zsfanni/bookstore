@@ -1,59 +1,66 @@
-[  
+[
   {
     "cím": "A kőszívű ember fiai",
     "szerző": "Jókai Mór",
     "kiadás-éve": 1869,
     "ár": 3700,
-    "raktárkészlet" : 5,
-    "nyelv": "magyar"
+    "raktárkészlet": 5,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 421
   },
   {
     "cím": "Egri csillagok",
     "szerző": "Gárdonyi Géza",
     "kiadás-éve": 1901,
     "ár": 4000,
-    "raktárkészlet" : 45,
-    "nyelv": "magyar"
+    "raktárkészlet": 45,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 444
   },
   {
     "cím": "Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
     "ár": 3000,
-    "raktárkészlet" : 35,
-    "nyelv": "magyar"
+    "raktárkészlet": 35,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 116
   },
   {
     "cím": "Az arany ember",
     "szerző": "Jókai Mór",
     "kiadás-éve": 1872,
     "ár": 4500,
-    "raktárkészlet" : 25,
-    "nyelv": "magyar"
+    "raktárkészlet": 25,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 355
   },
   {
     "cím": "Tüskevár",
     "szerző": "Fekete István",
     "kiadás-éve": 1957,
     "ár": 3200,
-    "raktárkészlet" : 15,
-    "nyelv": "magyar"
+    "raktárkészlet": 15,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 151
   },
   {
     "cím": "Légy jó mindhalálig",
     "szerző": "Móricz Zsigmond",
     "kiadás-éve": 1920,
     "ár": 2800,
-    "raktárkészlet" : 50,
-    "nyelv": "magyar"
+    "raktárkészlet": 50,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 138
   },
   {
     "cím": "Abigél",
     "szerző": "Szabó Magda",
     "kiadás-éve": 1970,
     "ár": 3700,
-    "raktárkészlet" : 40,
-    "nyelv": "magyar"
+    "raktárkészlet": 40,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 487
   },
   {
     "cím": "A funtineli boszorkány",
@@ -62,30 +69,34 @@
     "ár": 4200,
     "kedvezmény": 10,
     "raktárkészlet": 20,
-    "nyelv": "magyar"
+    "nyelv": "magyar",
+    "OLDALSZÁM": 123
   },
   {
     "cím": "Kincskereső kisködmön",
     "szerző": "Móra Ferenc",
     "kiadás-éve": 1918,
     "ár": 2500,
-    "raktárkészlet" : 30,
-    "nyelv": "magyar"
+    "raktárkészlet": 30,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 385
   },
   {
     "cím": "Iskola a határon",
     "szerző": "Ottlik Géza",
     "kiadás-éve": 1959,
     "ár": 3600,
-    "raktárkészlet" : 20,
-    "nyelv": "magyar"
+    "raktárkészlet": 20,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 320
   },
   {
     "cím": "A láthatatlan ember",
     "szerző": "Gárdonyi Géza",
     "kiadás-éve": 1902,
     "ár": 3900,
-    "raktárkészlet" : 43,
-    "nyelv": "magyar"
+    "raktárkészlet": 43,
+    "nyelv": "magyar",
+    "OLDALSZÁM": 234
   }
 ]
