@@ -56,11 +56,12 @@
     "nyelv": "magyar"
   },
   {
-    "cím": "A Pál utcai fiúk",
-    "szerző": "Molnár Ferenc",
-    "kiadás-éve": 1906,
-    "ár": 3000,
-    "raktárkészlet" : 10,
+    "cím": "A funtineli boszorkány",
+    "szerző": "Wass Albert",
+    "kiadás-éve": 1943,
+    "ár": 4200,
+    "kedvezmény": 10,
+    "raktárkészlet": 20,
     "nyelv": "magyar"
   },
   {
