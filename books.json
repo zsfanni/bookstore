@@ -4,69 +4,79 @@
     "szerző": "Jókai Mór",
     "kiadás-éve": 1869,
     "ár": 3700,
-    "raktárkészlet" : 5
+    "raktárkészlet" : 5,
+    "nyelv": "magyar"
   },
   {
     "cím": "Egri csillagok",
     "szerző": "Gárdonyi Géza",
     "kiadás-éve": 1901,
     "ár": 4000,
-    "raktárkészlet" : 45
+    "raktárkészlet" : 45,
+    "nyelv": "magyar"
   },
   {
     "cím": "Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
     "ár": 3000,
-    "raktárkészlet" : 35
+    "raktárkészlet" : 35,
+    "nyelv": "magyar"
   },
   {
     "cím": "Az arany ember",
     "szerző": "Jókai Mór",
     "kiadás-éve": 1872,
     "ár": 4500,
-    "raktárkészlet" : 25
+    "raktárkészlet" : 25,
+    "nyelv": "magyar"
   },
   {
     "cím": "Tüskevár",
     "szerző": "Fekete István",
     "kiadás-éve": 1957,
     "ár": 3200,
-    "raktárkészlet" : 15
+    "raktárkészlet" : 15,
+    "nyelv": "magyar"
   },
   {
     "cím": "Légy jó mindhalálig",
     "szerző": "Móricz Zsigmond",
     "kiadás-éve": 1920,
     "ár": 2800,
-    "raktárkészlet" : 50
+    "raktárkészlet" : 50,
+    "nyelv": "magyar"
   },
   {
     "cím": "Abigél",
     "szerző": "Szabó Magda",
     "kiadás-éve": 1970,
     "ár": 3700,
-    "raktárkészlet" : 40
+    "raktárkészlet" : 40,
+    "nyelv": "magyar"
   },
   {
     "cím": "A Pál utcai fiúk",
     "szerző": "Molnár Ferenc",
     "kiadás-éve": 1906,
     "ár": 3000,
-    "raktárkészlet" : 10
+    "raktárkészlet" : 10,
+    "nyelv": "magyar"
   },
   {
     "cím": "Kincskereső kisködmön",
     "szerző": "Móra Ferenc",
     "kiadás-éve": 1918,
     "ár": 2500,
-    "raktárkészlet" : 30
+    "raktárkészlet" : 30,
+    "nyelv": "magyar"
   },
   {
     "cím": "Iskola a határon",
     "szerző": "Ottlik Géza",
     "kiadás-éve": 1959,
     "ár": 3600,
-    "raktárkészlet" : 20
+    "raktárkészlet" : 20,
+    "nyelv": "magyar"
   }
 ]
