@@ -1,91 +1,91 @@
-[  
+[
   {
-    "cím": "A kőszívű ember fiai",
-    "szerző": "Jókai Mór",
-    "kiadás-éve": 1869,
-    "ár": 3700,
-    "raktárkészlet" : 5,
-    "nyelv": "magyar"
+      "CÍM": "A kőszívű ember fiai",
+      "SZERZŐ": "Jókai Mór",
+      "KIADÁS-ÉVE": 1869,
+      "ÁR": 3700,
+      "RAKTÁRKÉSZLET": 5,
+      "NYELV": "magyar"
   },
   {
-    "cím": "Egri csillagok",
-    "szerző": "Gárdonyi Géza",
-    "kiadás-éve": 1901,
-    "ár": 4000,
-    "raktárkészlet" : 45,
-    "nyelv": "magyar"
+      "CÍM": "Egri csillagok",
+      "SZERZŐ": "Gárdonyi Géza",
+      "KIADÁS-ÉVE": 1901,
+      "ÁR": 4000,
+      "RAKTÁRKÉSZLET": 45,
+      "NYELV": "magyar"
   },
   {
-    "cím": "Pál utcai fiúk",
-    "szerző": "Molnár Ferenc",
-    "kiadás-éve": 1906,
-    "ár": 3000,
-    "raktárkészlet" : 35,
-    "nyelv": "magyar"
+      "CÍM": "Pál utcai fiúk",
+      "SZERZŐ": "Molnár Ferenc",
+      "KIADÁS-ÉVE": 1906,
+      "ÁR": 3000,
+      "RAKTÁRKÉSZLET": 35,
+      "NYELV": "magyar"
   },
   {
-    "cím": "Az arany ember",
-    "szerző": "Jókai Mór",
-    "kiadás-éve": 1872,
-    "ár": 4500,
-    "raktárkészlet" : 25,
-    "nyelv": "magyar"
+      "CÍM": "Az arany ember",
+      "SZERZŐ": "Jókai Mór",
+      "KIADÁS-ÉVE": 1872,
+      "ÁR": 4500,
+      "RAKTÁRKÉSZLET": 25,
+      "NYELV": "magyar"
   },
   {
-    "cím": "Tüskevár",
-    "szerző": "Fekete István",
-    "kiadás-éve": 1957,
-    "ár": 3200,
-    "raktárkészlet" : 15,
-    "nyelv": "magyar"
+      "CÍM": "Tüskevár",
+      "SZERZŐ": "Fekete István",
+      "KIADÁS-ÉVE": 1957,
+      "ÁR": 3200,
+      "RAKTÁRKÉSZLET": 15,
+      "NYELV": "magyar"
   },
   {
-    "cím": "Légy jó mindhalálig",
-    "szerző": "Móricz Zsigmond",
-    "kiadás-éve": 1920,
-    "ár": 2800,
-    "raktárkészlet" : 50,
-    "nyelv": "magyar"
+      "CÍM": "Légy jó mindhalálig",
+      "SZERZŐ": "Móricz Zsigmond",
+      "KIADÁS-ÉVE": 1920,
+      "ÁR": 2800,
+      "RAKTÁRKÉSZLET": 50,
+      "NYELV": "magyar"
   },
   {
-    "cím": "Abigél",
-    "szerző": "Szabó Magda",
-    "kiadás-éve": 1970,
-    "ár": 3700,
-    "raktárkészlet" : 40,
-    "nyelv": "magyar"
+      "CÍM": "Abigél",
+      "SZERZŐ": "Szabó Magda",
+      "KIADÁS-ÉVE": 1970,
+      "ÁR": 3700,
+      "RAKTÁRKÉSZLET": 40,
+      "NYELV": "magyar"
   },
   {
-    "cím": "A funtineli boszorkány",
-    "szerző": "Wass Albert",
-    "kiadás-éve": 1943,
-    "ár": 4200,
-    "kedvezmény": 10,
-    "raktárkészlet": 20,
-    "nyelv": "magyar"
+      "CÍM": "A funtineli boszorkány",
+      "SZERZŐ": "Wass Albert",
+      "KIADÁS-ÉVE": 1943,
+      "ÁR": 4200,
+      "KEDVEZMÉNY": 10,
+      "RAKTÁRKÉSZLET": 20,
+      "NYELV": "magyar"
   },
   {
-    "cím": "Kincskereső kisködmön",
-    "szerző": "Móra Ferenc",
-    "kiadás-éve": 1918,
-    "ár": 2500,
-    "raktárkészlet" : 30,
-    "nyelv": "magyar"
+      "CÍM": "Kincskereső kisködmön",
+      "SZERZŐ": "Móra Ferenc",
+      "KIADÁS-ÉVE": 1918,
+      "ÁR": 2500,
+      "RAKTÁRKÉSZLET": 30,
+      "NYELV": "magyar"
   },
   {
-    "cím": "Iskola a határon",
-    "szerző": "Ottlik Géza",
-    "kiadás-éve": 1959,
-    "ár": 3600,
-    "raktárkészlet" : 20,
-    "nyelv": "magyar"
+      "CÍM": "Iskola a határon",
+      "SZERZŐ": "Ottlik Géza",
+      "KIADÁS-ÉVE": 1959,
+      "ÁR": 3600,
+      "RAKTÁRKÉSZLET": 20,
+      "NYELV": "magyar"
   },
   {
-    "cím": "A láthatatlan ember",
-    "szerző": "Gárdonyi Géza",
-    "kiadás-éve": 1902,
-    "ár": 3900,
-    "raktárkészlet" : 43,
-    "nyelv": "magyar"
+      "CÍM": "A láthatatlan ember",
+      "SZERZŐ": "Gárdonyi Géza",
+      "KIADÁS-ÉVE": 1902,
+      "ÁR": 3900,
+      "RAKTÁRKÉSZLET": 43,
+      "NYELV": "magyar"
   }
 ]
